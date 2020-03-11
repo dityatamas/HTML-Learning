@@ -18,18 +18,14 @@
     color: #66bfbf;
   }
 
-img{
-  height: 100px;
-}
-
 /*Class Selectors*/
  .ii{
     width: auto;
     height: 14px;
   }
 
-.Contact{
-
+.dp{
+  height: 100px;
 }
 
 .link{
