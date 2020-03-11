@@ -18,6 +18,10 @@
     color: #66bfbf;
   }
 
+img{
+  height: 100px;
+}
+
 /*Class Selectors*/
  .ii{
     width: auto;
